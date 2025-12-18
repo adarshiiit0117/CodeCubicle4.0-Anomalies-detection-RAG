@@ -106,6 +106,7 @@ docker run -v $(pwd)/data_stream:/app/data_stream -v $(pwd)/anomalies.jsonl:/app
 
 Built by **Team Coders123** for Geekroom Code Cubicle 4.0 🚀
 - Aditya Karn
+- Adarsh Dubey
 - Ansh Singh
 - Aditya Gupta
 
